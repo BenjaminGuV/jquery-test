@@ -1,0 +1,28 @@
+<html>
+<head>
+	<title>problema</title>
+	<script type="text/javascript" src="jquery-1.6.4.js"></script>
+	<script type="text/javascript">
+		var x;
+		x = $(document);
+		x.ready(inicializarEventos);
+
+		function inicializarEventos()
+		{
+			var x;
+			x = $("#parrafo");
+			x.click(presionBoton);
+		}
+
+		function presionBoton()
+		{
+			alert("Presiono el boton");
+		}
+
+	</script>
+</head>
+<body>
+	<p id="parrafo">Hola mundo</p>
+	<input type="button" id="boton1" value="presioname"/>
+</body>
+</html>

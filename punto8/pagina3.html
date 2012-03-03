@@ -1,0 +1,64 @@
+<html>
+<head>
+	<title>problema</title>
+	<script type="text/javascript" src="jquery-1.6.4.js"></script>
+	<script type="text/javascript">
+		var x;
+		x = $(document);
+		x.ready(inicializarEventos);
+
+		function inicializarEventos()
+		{
+			var x;
+			x = $("#boton1");
+			x.click(agregarPropiedadBorder);
+			x = $("#boton2");
+			x.click(recuperarPropiedadBorder);
+			x = $("#boton3");
+			x.click(eliminarPropiedadBorder);
+		}
+
+		function agregarPropiedadBorder()
+		{
+			var x;
+			x = $("#tabla1");
+			x.attr("border", "1");
+
+		}
+
+
+		function recuperarPropiedadBorder()
+		{
+			var x = $("#tabla1");
+			if ( x.attr("border") != undefined ) {
+				alert(x.attr("border"));
+			}else{
+				alert("No esta definida");
+			}
+		}
+
+		function eliminarPropiedadBorder()
+		{
+			var x = $("#tabla1");
+			x.removeAttr("border");
+		}
+
+	</script>
+</head>
+<body>
+	<input type="button" value="Añadir una propiedad" id="boton1" />
+	<input type="button" id="boton2" value="Recuperar el valor de una propiedad" />
+	<input type="button" id="boton3" value="Eliminar la propiedad"/>
+	<p id="parrafo1">Texto del primer párrafo</p>
+	<table id="tabla1">
+		<tr>
+			<td>Celda 1,1</td>
+			<td>Celda 1,2</td>
+		</tr>
+		<tr>
+			<td>Celda 2,1</td>
+			<td>Celda 2,2</td>
+		</tr>
+	</table>
+</body>
+</html>

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Practica 3 - jQuery events</title>
+	<link rel="stylesheet" type="text/css" href="day.css">
+</head>
+<body>
+	<h1>¡Mi web!</h1>
+	<button data-file="day" >Day</button>
+	<button data-file="night" >Night</button>
+<!---->
+	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.js"></script>
+	<script type="text/javascript">
+		(function(){
+			var	link = $('link');
+			$('button').on( 'click', function() {
+				var $this = $(this),
+					stylesheet = $this.data('file');
+
+				link.attr( 'href', stylesheet + '.css' );
+
+				$this
+					.siblings('button')
+						.removeAttr('disabled')
+						.end()
+						.attr('disabled', 'disabled');
+					
+			});
+		} )();
+	</script>
+<!---->
+</body>
+</html>

@@ -1,0 +1,26 @@
+<html>
+<head>
+	<title>Practica 1</title>
+	<script type="text/javascript" src="jquery-1.6.4.js"></script>
+	<script>
+	$(document).ready(function(){
+	$("#enlaceajax").click(function(evento){
+	evento.preventDefault();
+	$("#cargando").css("display", "inline");
+	$("#destino").load("index.html", function(){
+	$("#cargando").css("display", "none");
+	});
+	});
+	})
+	</script>
+</head>
+<body>
+	Esto es un Ajax con un mensaje de cargando...
+<br>
+<br>
+<a href="#" id="enlaceajax">Haz clic!</a>
+<div id="cargando" style="display:none; color: green;">Cargando...</div>
+<br>
+<div id="destino"></div>
+</body>
+</html>

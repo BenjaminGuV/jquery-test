@@ -1,0 +1,42 @@
+<html>
+<head>
+	<title>problema</title>
+	<script type="text/javascript" src="jquery-1.6.4.js"></script>
+	<script type="text/javascript">
+		var x;
+		x = $(document);
+		x.ready(inicializarEventos);
+
+		function inicializarEventos()
+		{
+			var x;
+			x = $("#boton1");
+			x.click(ocultarLista);
+		}
+
+		function ocultarLista()
+		{
+			var x;
+			x = $("#lista1");
+			x.hide();
+
+		}
+
+	</script>
+</head>
+<body>
+	<input type="button" value="ocultar" id="boton1" />
+	<h2>Lista 1</h2>
+		<ul id="lista1">
+			<li>Opcion numero 1</li>
+			<li>Opcion numero 2</li>
+			<li>Opcion numero 3</li>
+		</ul>
+	<h2>Lista 2</h2>
+		<ul id="lista2">
+			<li>Opcion numero 1</li>
+			<li>Opcion numero 2</li>
+			<li>Opcion numero 3</li>
+		</ul>
+</body>
+</html>

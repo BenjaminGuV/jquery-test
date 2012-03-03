@@ -1,0 +1,60 @@
+<html>
+<head>
+	<title>problema</title>
+	<script type="text/javascript" src="jquery-1.6.4.js"></script>
+	<script type="text/javascript">
+		var x;
+		x = $(document);
+		x.ready(inicializarEventos);
+
+		function inicializarEventos()
+		{
+			var x;
+			x = $("#boton1");
+			x.click(extraerTexto);
+			x = $("#boton2");
+			x.click(modificarTexto);
+			x = $("#boton3");
+			x.click(modificarDatoTabla);
+		}
+
+		function extraerTexto()
+		{
+			var x;
+			x = $("#parrafo1");
+			alert(x.text());
+
+		}
+
+		function modificarTexto()
+		{
+			var x = $("#parrafo1");
+			x.text("Nuevo texto del parrafo");
+			alert("entraste")
+		}
+
+		function modificarDatoTabla()
+		{
+			var x = $("td");
+			x.text("texto nuevo");
+		}
+
+	</script>
+</head>
+<body>
+	<input type="button" value="Obtener el texto contenido en el parrafo" id="boton1" />
+	<input type="button" id="boton2" value="Modificar texto" />
+	<input type="button" id="boton3" value="Modificar texto en la tabla"/>
+	<p id="parrafo1">Texto del primer párrafo</p>
+	<table>
+		<tr>
+			<td>Celda 1,1</td>
+			<td>Celda 1,2</td>
+		</tr>
+		<tr>
+			<td>Celda 2,1</td>
+			<td>Celda 2,2</td>
+		</tr>
+	</table>
+</body>
+</html>

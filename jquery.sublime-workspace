@@ -1,0 +1,1049 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"msj",
+				"msjFail"
+			],
+			[
+				"ms",
+				"msjFail"
+			],
+			[
+				"aja",
+				"ajaxCall"
+			],
+			[
+				"l",
+				"li"
+			],
+			[
+				"t",
+				"trigger"
+			],
+			[
+				"da",
+				"delay"
+			],
+			[
+				"ht",
+				"html"
+			],
+			[
+				"im",
+				"imgCont"
+			],
+			[
+				"lo",
+				"loading"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"com",
+				"complete"
+			],
+			[
+				"con",
+				"config"
+			],
+			[
+				"pad",
+				"padding	padding-right: length"
+			],
+			[
+				"pa",
+				"padding	padding: V H"
+			],
+			[
+				"te",
+				"tweets"
+			],
+			[
+				"tw",
+				"tweets"
+			],
+			[
+				"a",
+				"age"
+			],
+			[
+				"font",
+				"font	font: size font"
+			],
+			[
+				"d",
+				"destinoTxt"
+			],
+			[
+				"sh",
+				"shadows"
+			],
+			[
+				"img",
+				"imagen"
+			],
+			[
+				"div",
+				"divRes"
+			],
+			[
+				"f",
+				"find"
+			],
+			[
+				"if",
+				"ifelse	if … else …"
+			],
+			[
+				"ma",
+				"margin	margin: T R B L"
+			],
+			[
+				"de",
+				"destinoImg"
+			],
+			[
+				"tu",
+				"thumbnail"
+			],
+			[
+				"blo",
+				"blogTemplate"
+			],
+			[
+				"htt",
+				"http"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"slide",
+				"slider"
+			],
+			[
+				"s",
+				"slider"
+			],
+			[
+				"slider",
+				"slider2"
+			],
+			[
+				"S",
+				"Slider"
+			],
+			[
+				"mo",
+				"move"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"sl",
+				"sliderUL"
+			],
+			[
+				"ims",
+				"imgsLen"
+			],
+			[
+				"marin",
+				"margin	margin-top: length"
+			],
+			[
+				"mar",
+				"margin	margin: all"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"base",
+				"base64_decode"
+			],
+			[
+				"MC",
+				"MCRYPT_RAND"
+			],
+			[
+				"M",
+				"MCRYPT_RIJNDAEL_256"
+			],
+			[
+				"mc",
+				"mcrypt_encrypt"
+			],
+			[
+				"mcr",
+				"mcrypt_decrypt"
+			],
+			[
+				"ci",
+				"cifrar"
+			],
+			[
+				"MCR",
+				"MCRYPT_MODE_CBC"
+			],
+			[
+				"em",
+				"email"
+			],
+			[
+				"else",
+				"elseif	elseif …"
+			],
+			[
+				"no",
+				"nombre"
+			],
+			[
+				"pre",
+				"preg_match"
+			],
+			[
+				"exi",
+				"existe"
+			],
+			[
+				"E",
+				"E00"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"_",
+				"_pass"
+			],
+			[
+				"is_s",
+				"is_string"
+			],
+			[
+				"is_i",
+				"is_integer"
+			],
+			[
+				"win",
+				"winWidth"
+			],
+			[
+				"margin",
+				"margin	margin: all"
+			],
+			[
+				"comple",
+				"Completed"
+			],
+			[
+				"session_re",
+				"session_regenerate_id"
+			],
+			[
+				"uni",
+				"unico"
+			],
+			[
+				"_s",
+				"_sid"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"sess",
+				"session_id"
+			],
+			[
+				"conta",
+				"contact"
+			],
+			[
+				"sp",
+				"speed"
+			],
+			[
+				"contact",
+				"contactForm"
+			],
+			[
+				"contac",
+				"contactForm"
+			],
+			[
+				"wh",
+				"width"
+			],
+			[
+				"clone",
+				"cloned"
+			],
+			[
+				"cifr",
+				"cifrarPass"
+			],
+			[
+				"dis",
+				"display	display: block"
+			],
+			[
+				"ta",
+				"tableCompleta"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"ac",
+				"actividad"
+			],
+			[
+				"is_",
+				"is_array"
+			],
+			[
+				"key",
+				"key2"
+			],
+			[
+				"k",
+				"key2"
+			],
+			[
+				"table",
+				"tableCompleta"
+			],
+			[
+				"cab",
+				"cabNombres"
+			],
+			[
+				"Ta",
+				"Table"
+			],
+			[
+				"bac",
+				"background	background-color: hex"
+			],
+			[
+				"back",
+				"background	background-color: hex"
+			],
+			[
+				"usu",
+				"usuario"
+			],
+			[
+				"u",
+				"Usuario"
+			],
+			[
+				"U",
+				"Usuarios"
+			],
+			[
+				"cre",
+				"crearSession"
+			],
+			[
+				"nombre",
+				"_nombre"
+			],
+			[
+				"mysql_re",
+				"mysql_real_escape_string"
+			],
+			[
+				"pas",
+				"pass"
+			],
+			[
+				"re",
+				"resultado"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"usuar",
+				"usuariosId"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"pr",
+				"private"
+			],
+			[
+				"unse",
+				"unset"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"setA",
+				"setArrayComidaId"
+			],
+			[
+				"comidas",
+				"comidasId"
+			],
+			[
+				"sql",
+				"sqlfin"
+			],
+			[
+				"comi",
+				"comidasId"
+			],
+			[
+				"_com",
+				"_comidaId"
+			],
+			[
+				"usua",
+				"usuarios"
+			],
+			[
+				"usuari",
+				"usuarios_id"
+			],
+			[
+				"comida",
+				"comida1"
+			],
+			[
+				"us",
+				"usuario"
+			],
+			[
+				"mysq",
+				"mysql_fetch_assoc"
+			],
+			[
+				"usuario",
+				"usuarios_id"
+			],
+			[
+				"in",
+				"interes"
+			],
+			[
+				"nume",
+				"numero_contactos"
+			],
+			[
+				"nu",
+				"numero_contactos"
+			],
+			[
+				"ut",
+				"utf8_decode"
+			],
+			[
+				"Nu",
+				"numero_contactos"
+			],
+			[
+				"des",
+				"destino"
+			],
+			[
+				"controla",
+				"controlador"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"require",
+				"require"
+			],
+			[
+				"Num",
+				"NumEmpleados"
+			],
+			[
+				"num",
+				"num_empleados"
+			],
+			[
+				"exa",
+				"examen_admision"
+			],
+			[
+				"com_a",
+				"com_academico"
+			],
+			[
+				"nom",
+				"nombrecompleto"
+			],
+			[
+				"mysql_fetch_",
+				"mysql_fetch_assoc"
+			],
+			[
+				"comen",
+				"comentarios_empresas"
+			],
+			[
+				"folio",
+				"folio_empresa"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 187.0,
+		"selected_items":
+		[
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"pac",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"package contro",
+				"Package Control: Install Package"
+			],
+			[
+				"create",
+				"Package Control: Create Package File"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"s",
+				"Set Syntax: SQL"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"fore",
+				"Snippet: foreach …"
+			],
+			[
+				"for",
+				"Snippet: <?php foreach (…) … <?php endforeach ?>"
+			],
+			[
+				"",
+				"Convert Case: Lower Case"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 136.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/wamp/www/jquery/test/index.php",
+		"/C/wamp/www/jquery/test/lista_destino.php",
+		"/C/wamp/www/jquery/test/scripts.js",
+		"/C/wamp/www/jquery/index.php",
+		"/C/Users/SILVIA/AppData/Roaming/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
+		"/C/wamp/www/jquery/index.html",
+		"/C/wamp/www/jquery/clase18/index.php",
+		"/C/wamp/www/ABC/index.html",
+		"/C/wamp/www/ABC/css/stylesheet.css",
+		"/C/wamp/www/ABC/css/styles_destinos.css",
+		"/C/wamp/www/ABC/css/skin.css",
+		"/C/wamp/www/ABC/css/reset.css",
+		"/C/wamp/www/ABC/css/style.css.css",
+		"/C/wamp/www/jquery/clase2/index - copia.html",
+		"/C/wamp/www/jquery/clase1/index - copia.html",
+		"/D/practicas/practicaModulo1/practica_modulo_1.html",
+		"/C/wamp/www/ABC/adsads/cargaciudades.html",
+		"/C/wamp/www/jquery/onImagesLoad/jquery.onImagesLoad.js",
+		"/C/wamp/www/jquery/clase17/index.php",
+		"/C/wamp/www/jquery/clase16/index.php",
+		"/C/wamp/www/jquery/slider.js",
+		"/C/wamp/www/jquery/slider.css",
+		"/C/wamp/www/jquery/clase15/style.css",
+		"/C/wamp/www/jquery/clase15/slider.js",
+		"/C/wamp/www/jquery/clase15/index.php",
+		"/C/wamp/www/jquery/clase14/index.php",
+		"/C/wamp/www/jquery/clase14/slider.js",
+		"/C/wamp/www/jquery/clase14/slider.css",
+		"/C/wamp/www/jquery/clase13/index.php",
+		"/C/wamp/www/jquery/clase12/index.php",
+		"/C/wamp/www/loginpoo/libs/Login.class.php",
+		"/C/wamp/www/loginpoo/libs/Secure.class.php",
+		"/C/wamp/www/loginpoo/index.php",
+		"/C/wamp/www/loginpoo/login.php",
+		"/C/Users/SILVIA/Downloads/restrequestincphp1/RestRequest.inc.php",
+		"/C/wamp/www/loginpoo/registro.php",
+		"/C/wamp/www/simdiscos/ajax.php",
+		"/C/wamp/www/simdiscos/ajaxcliente.php",
+		"/C/wamp/www/simdiscos/mapa.php",
+		"/C/wamp/www/simdiscos/regevento.php",
+		"/C/wamp/www/simdiscos/ver-cliente2.php",
+		"/C/wamp/www/simdiscos/search.php",
+		"/C/wamp/www/simdiscos/brazaletes.php",
+		"/C/wamp/www/simdiscos/asignacion.php",
+		"/C/wamp/www/simdiscos/ajaxmapa2.php",
+		"/C/wamp/www/simdiscos/ajaxmapa.php",
+		"/C/wamp/www/simdiscos/reghoteles.php",
+		"/C/wamp/www/simdiscos/reg.php",
+		"/C/wamp/www/loginpoo/libs/Table.class.php",
+		"/C/wamp/www/loginpoo/css/style.css",
+		"/C/wamp/www/simdiscos/scripts/borrarlugares.php",
+		"/C/wamp/www/simdiscos/scripts/borrardiscos.php",
+		"/C/wamp/www/simdiscos/scripts/eliminar/cortesias.php",
+		"/C/wamp/www/simdiscos/scripts/eliminar/cancelaciones.php",
+		"/C/wamp/www/simdiscos/scripts/eliminar/barralibres.php",
+		"/C/wamp/www/simdiscos/scripts/borra-llamadas.php",
+		"/C/wamp/www/simdiscos/scripts/borraevento.php",
+		"/C/Users/SILVIA/Downloads/europio_v2_0_18/europio_2_0/site_media/html/example_read.html",
+		"/C/wamp/www/europio_2_0/module/test/example.php",
+		"/C/Users/SILVIA/Downloads/europio_v2_0_18/europio_2_0/module/views/example.php",
+		"/C/Users/SILVIA/Downloads/europio_v2_0_18/europio_2_0/module/test/example.php",
+		"/C/Users/SILVIA/Downloads/europio_v2_0_18/europio_2_0/module/models/example.php",
+		"/C/Users/SILVIA/Downloads/europio_v2_0_18/europio_2_0/module/controllers/example.php",
+		"/C/Users/SILVIA/Downloads/europio_v2_0_18/europio_2_0/core/settings.php",
+		"/C/Users/SILVIA/Downloads/europio_v2_0_18/europio_2_0/core/europio/phpformvalidator.php",
+		"/C/Users/SILVIA/Downloads/europio_v2_0_18/europio_2_0/core/europio/orm/orm_db.php",
+		"/C/Users/SILVIA/Downloads/europio_v2_0_18/europio_2_0/core/europio/helpers/models.php",
+		"/C/Users/SILVIA/Downloads/europio_v2_0_18/europio_2_0/core/europio/helpers/databases.php",
+		"/C/wamp/www/loginpoo/tabla.sql",
+		"/C/wamp/www/loginpoo/libs/Tarea.php",
+		"/C/wamp/www/loginpoo/libs/Usuario.php",
+		"/C/wamp/www/loginpoo/logout.php",
+		"/C/wamp/www/secrets/index.php",
+		"/C/wamp/www/grupo-mandala/mapa.php",
+		"/C/wamp/www/jquery/style.css",
+		"/C/wamp/www/jquery/night.css",
+		"/C/wamp/www/jquery/day.css",
+		"/C/wamp/www/loginpoo/vistas/Tareas/crear.php",
+		"/C/wamp/www/pruebalaparrilla/search.php",
+		"/C/wamp/www/pruebalaparrilla/scripts/php/Paginacion.class.php",
+		"/C/wamp/www/loginpoo/libs/Tarea.class.php",
+		"/C/wamp/www/pruebalaparrilla/searchv.php",
+		"/C/wamp/www/loginpoo/style.css",
+		"/C/wamp/www/loginpoo/conexion/DB.class.php",
+		"/C/wamp/www/update/procesar.php",
+		"/C/wamp/www/simposgrado/seguridad.php",
+		"/C/wamp/www/simposgrado/scripts/auth.php",
+		"/C/wamp/www/loginpoo/conexion/config.php",
+		"/C/wamp/www/simposgrado/logout.php",
+		"/C/wamp/www/simposgrado/index.php",
+		"/C/wamp/www/simposgrado/login.php",
+		"/C/wamp/www/update/index.php",
+		"/C/Users/SILVIA/Downloads/template-696441811645222706.xml",
+		"/C/wamp/www/ejemplos/esc/index.php",
+		"/C/wamp/www/api/bd.sql",
+		"/C/wamp/www/simposgrado/empresas.php",
+		"/C/wamp/www/api/index.php",
+		"/C/wamp/www/api/Data.class.php",
+		"/C/wamp/www/api/conexion/DB.class.php",
+		"/C/wamp/www/api/api.php",
+		"/C/wamp/www/api/respuesta.php",
+		"/C/wamp/www/api/api2.php",
+		"/C/wamp/www/api/data.php",
+		"/C/wamp/www/api/conexion/config.php",
+		"/C/wamp/www/prueba/index.php",
+		"/C/wamp/www/prueba2/index.php",
+		"/C/wamp/www/tinyMvc/index.php",
+		"/C/wamp/www/sysguv/index.php",
+		"/C/wamp/www/secrets/index (2).php",
+		"/C/wamp/www/api/conexion/Conf.class.php",
+		"/C/wamp/www/secrets/core/conexion/DB.class.php",
+		"/C/wamp/www/secrets/core/conexion/Conf.class.php",
+		"/C/wamp/www/source/php/Conf.class.php",
+		"/C/wamp/www/source/php/DB.class.php",
+		"/C/Users/SILVIA/AppData/Local/Temp/Rar$DI00.374/procesar.php",
+		"/C/wamp/www/simposgrado/formularios-edit/procesar_form.php",
+		"/C/Users/SILVIA/AppData/Local/Temp/Rar$DI00.202/index.php",
+		"/C/wamp/www/select/index.php",
+		"/C/wamp/www/select/procesar.php",
+		"/C/wamp/www/simposgrado/formularios/cursos_interes.php",
+		"/C/wamp/www/simposgrado/formularios/1.php",
+		"/C/wamp/www/simposgrado/reg.php",
+		"/C/wamp/www/simposgrado/scripts/xls-visitas.php",
+		"/C/wamp/www/simposgrado/includes/style.css",
+		"/C/wamp/www/simposgrado/formularios/5.php",
+		"/C/wamp/www/simposgrado/scripts/xls-tele.php",
+		"/C/wamp/www/simposgrado/scripts/xls-registros.php",
+		"/C/wamp/www/simposgrado/scripts/conexion.php"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".cotizador",
+			"cotizado",
+			"http://mexicocarrental.com.mx/pruebas/ABCmadre",
+			"<li ",
+			"cript",
+			"ul",
+			"array",
+			"logout",
+			"crear",
+			">",
+			"<",
+			"<script",
+			"script",
+			"update",
+			"var_",
+			"getArrayComida",
+			"var_",
+			"<a",
+			"dl",
+			"emplea",
+			"$row[\"emplea\"]",
+			"numero",
+			"bande",
+			"$row[\"fecha_nacimiento\"];",
+			"left",
+			"body",
+			"\"]);",
+			"carrera",
+			"inf",
+			"estudio",
+			"<form",
+			"curso",
+			"<form",
+			"cursos2",
+			"$areas_interes_id",
+			"fech",
+			"fecha_na",
+			"tipo_contacto_id",
+			"formularios",
+			"header",
+			"var",
+			"var_d",
+			"var_",
+			"var_d",
+			"Contacto:",
+			"contacto",
+			"areas_interes",
+			"cursos_prospectos",
+			"ext",
+			"formularios",
+			"Ben",
+			"benjamin",
+			"font",
+			"font-style",
+			"font",
+			"imagenes",
+			"home",
+			"Someone",
+			"Posted by",
+			"text-tra",
+			"logo",
+			"title",
+			"eliminar",
+			"cargando",
+			"areas_c",
+			"search",
+			"fechaActual",
+			"$fechaActual",
+			"fecha",
+			"var",
+			"nombre",
+			"h3",
+			"destino",
+			"mostrar",
+			"agenda",
+			"</dd>",
+			"botcalendario",
+			".load",
+			"cargando",
+			"carga",
+			"car",
+			"cargado",
+			"cargando",
+			"pasarpen",
+			"pendiente",
+			"calendario",
+			"?dia=",
+			"$enSegundosCalendario",
+			"$link_dia",
+			"dia=",
+			"<?",
+			"hems",
+			"admin",
+			"adminitrador",
+			"link",
+			"destino",
+			"date",
+			"logs",
+			"columna",
+			"conte",
+			"sim_laparrilla.",
+			"append",
+			"todo-",
+			"todo",
+			"mysql_",
+			"sim_laparrilla",
+			"$base_",
+			"sim",
+			"pais",
+			"AUTO_INCREMENT=",
+			"var",
+			"Ã­",
+			"Ã±",
+			"Ãº",
+			"Ã³",
+			"Ã©",
+			"Ã¡",
+			"mysql_query",
+			"@mysql_query(\"SET NAMES 'utf8'\"); ",
+			"Ãº",
+			"Ã³",
+			"Ã*",
+			"Ã©",
+			"Ã¡",
+			"Ãº",
+			"Ã©",
+			"MÃ©xico",
+			"++\"; // "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"<li class=\"dia\" ",
+			"&gt;",
+			"&lt;",
+			"<a target=\"_blank\"",
+			"$fecha_nacimiento;",
+			"formularios-edit",
+			"imágenes",
+			"Benjamín",
+			"Escrito",
+			"h5",
+			"</dd><br>",
+			"<?php",
+			"",
+			"sim_cocos",
+			"í",
+			"ñ",
+			"ú",
+			"ó",
+			"é",
+			"á",
+			"ó",
+			"á",
+			"ú",
+			"é",
+			"México",
+			"sim_discos",
+			"pisos",
+			"<?php ",
+			"<?php echo",
+			"sim_thecity",
+			"\"h1\" class=\"redondeado2\"",
+			"<!--<img src=\"images/logo-sim.png\" />-->",
+			"\"h1\" class=\"redondeado2\"",
+			"<!--<img src=\"images/logo-sim.png\" />-->",
+			"\"h1\" class=\"redondeado2\"",
+			"<!--<img src=\"images/logo-sim.png\" />-->",
+			"\"h1\" class=\"redondeado2\"",
+			"<!--<img src=\"images/logo-sim.png\" />-->",
+			"<!--<a href=\"contacto.php\"><img src=\"images/ayuda.png\"/></a>-->",
+			"\"h1\" class=\"redondeado2\"",
+			"<?php ",
+			"<?php echo",
+			"<?php ",
+			"<?php echo",
+			"<?php ",
+			"<?php echo",
+			"<?php ",
+			"<?php echo",
+			"<?php ",
+			"<?php echo",
+			"<?php ",
+			"<?php echo",
+			"<?php ",
+			"<?php echo",
+			"<?php ",
+			"<?php echo",
+			"<?php ",
+			"<?php",
+			"puesto",
+			"', 'libre')",
+			"'",
+			", '",
+			"'",
+			", '",
+			"poly'",
+			"rect'",
+			"'",
+			"",
+			",",
+			"",
+			"poly,",
+			"rect,",
+			"",
+			"(",
+			"),",
+			"nav",
+			"PrintInOrder",
+			"img",
+			"_POST",
+			"ctx"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"s",
+				"slider.js"
+			],
+			[
+				"sl",
+				"slider.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 149.0,
+	"status_bar_visible": true
+}
